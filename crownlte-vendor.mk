@@ -51,6 +51,5 @@ PRODUCT_PACKAGES += \
     lib_SamsungRec_06006 \
     libaudioproxy \
     librecordalive \
-    libwvhidl \
     libswdap \
     libkeymaster_helper_vendor
